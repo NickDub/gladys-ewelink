@@ -1,0 +1,27 @@
+{
+  "name": "gladys-ewelink",
+  "version": "0.1.0",
+  "description": "Gladys module to control eWeLink devices (Sonoff with OEM firmware).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NickDub/gladys-ewelink.git"
+  },
+  "keywords": [
+    "gladys",
+    "eWeLink",
+    "sonoff"
+  ],
+  "author": "Nicolas Dubois",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NickDub/gladys-ewelink/issues"
+  },
+  "homepage": "https://github.com/NickDub/gladys-ewelink#readme",
+  "dependencies": {
+    "ewelink-api": "github:NickDub/ewelink-api"
+  }
+}
