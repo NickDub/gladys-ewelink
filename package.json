@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/NickDub/gladys-ewelink#readme",
   "dependencies": {
-    "ewelink-api": "^1.2.0"
+    "ewelink-api": "^1.7.0"
   }
 }
